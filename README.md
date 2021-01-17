@@ -22,7 +22,7 @@ We expect candidates to spend 1-3 hours on this exercise.
 There are two parts of the challenge which you'll see when you dive into things.  You can get started with things by running `npm start`.
 
 
-## How do we evaluate your submission?
+## How will your submission be evaluated?
 
 1. Code cleanliness. 👉 *Does the code demonstrate a commitment legibility and understandability?*
 1. Code efficacy. 👉 *Does the code work? Does the code address the questions being asked?*
