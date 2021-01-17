@@ -28,3 +28,5 @@ We expect candidates to spend 1-3 hours on this exercise.
 
 
 Create a GitHub repo and email your point-of-contact the link.
+
+https://github.com/sesolabor/coding-challenge/blob/fbb868f5a4a2f0503878bdb2a4e39eeb30284474/__tests__/log-source.jest.unit.js#L3-L29
