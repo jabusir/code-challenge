@@ -21,12 +21,13 @@ We expect candidates to spend 1-3 hours on this exercise.
 
 There are two parts of the challenge which you'll see when you dive into things.  You can get started with things by running `npm start`.
 
-## Submission
-
-Create a GitHub repo and email your point-of-contact the link.
 
 ## How do we evaluate your submission?
 
 1. Code cleanliness. 👉 *Does the code demonstrate a commitment legibility and understandability?*
 1. Code efficacy. 👉 *Does the code work? Does the code address the questions being asked?*
 1. Code efficiency. 👉 *Does the code exhibit an understanding of the problem and **drain the log sources efficiently?***
+
+## Submitting
+
+Create a GitHub repo and email your point-of-contact the link.
