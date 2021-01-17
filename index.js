@@ -25,7 +25,6 @@ function runSolutions(sourceCount) {
      * This function will ensure that what you print is in fact in chronological order.
      * Call 'printer.done()' at the end to get a few stats on your solution!
      */
-
     const syncLogSources = [];
     for (let i = 0; i < sourceCount; i++) {
       syncLogSources.push(new LogSource());
@@ -45,7 +44,6 @@ function runSolutions(sourceCount) {
        * has only one method: popAsync() which returns a promise that resolves with a LogEntry,
        * or boolean false once the LogSource has ended.
        */
-
       const asyncLogSources = [];
       for (let i = 0; i < sourceCount; i++) {
         asyncLogSources.push(new LogSource());
