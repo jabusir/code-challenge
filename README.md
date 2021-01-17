@@ -3,6 +3,10 @@
 # Seso Code Coding Challenge A21
 
 
+
+
+
+
 **Log Sorting**
 
 You have been a set of **log sources**.  Each loh source is contains N log entries.  Each entry is a javascript object with a timestamp and message.  You don't know how many log entries each source has - however - you do know that the entries within each source are sorted chronologically (that last bit is important).
