@@ -1,0 +1,17 @@
+{
+  "name": "seso-coding-challange",
+  "version": "1.0.0",
+  "description": "Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/jest"
+  },
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "Faker": "~0.7.0",
+    "bluebird": "^3.4.1",
+    "jest": "^26.6.3",
+    "lodash": "^4.13.1"
+  }
+}
