@@ -18,7 +18,7 @@ We expect candidates to spend 1-2 hours on this exercise.
 * Log sources could contain logs from last year, from yesterday, even from 100 years ago. We won't know the timeframe of a log source until we start looking.
 * Consider what would happen when asked to merge 1 million log sources.  Where might bottlenecks arise?
 
-There are two parts of the challenge which you'll see when you dive into things.  You can get started with things by running `npm start`.
+There are two parts of the challenge which you'll see when diving into things.  You can get started by running `npm start`.
 
 ## How will your submission be evaluated?
 
