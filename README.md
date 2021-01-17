@@ -1,11 +1,9 @@
 # Seso Code Screening Challenge A21
 
-<img align="center" src="https://seso-static-assets-localhost.s3.amazonaws.com/seso-logo-green-100x100.png" alt="seso-logo">
+<img align="left" width="100px" height="100px" src="https://seso-static-assets-localhost.s3.amazonaws.com/seso-logo-green-100x100.png" alt="seso-logo">
 
-
-## Your Task
-
-<img src="https://seso-static-assets-localhost.s3.amazonaws.com/seso-logo-green-100x100.png" align="center" alt="seso-logo">
+**Log Sorting**
+---
 
 You have been a set of **log sources**.  Each loh source is contains N log entries.  Each entry is a javascript object with a timestamp and message.  You don't know how many log entries each source has - however - you do know that the entries within each source are sorted chronologically (that last bit is important).
 
