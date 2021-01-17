@@ -8,7 +8,7 @@
 
 We have been given a set of [**log sources**](https://github.com/sesolabor/coding-challenge/blob/master/lib/log-source.js).  Each log source is contains N log entries.  Each entry is a javascript object with a timestamp and message.  We don't know the number of log entries each source contains - however - we do know that the entries within each source are sorted 🕒 **chronologically** 🕒.
 
-The mission is to print all of the entries, across all of the sources, in chronological order. We don't need to store the log entries, just print them to stdout.
+Our mission is to print all of the entries, across all of the sources, in chronological order. We don't need to store the log entries, just print them to stdout.
 
 We expect candidates to spend 1-2 hours on this exercise.
 
