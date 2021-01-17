@@ -25,7 +25,10 @@ There are two parts of the challenge which you'll see when you dive into things.
 
 ## Submission
 
-
 Create a GitHub repo and email your point-of-contact the link.
 
-https://github.com/sesolabor/coding-challenge/blob/fbb868f5a4a2f0503878bdb2a4e39eeb30284474/__tests__/log-source.jest.unit.js#L3-L29
+## How do we evaluate your submission?
+
+1. Code cleanliness. 👉 *Does the code demonstrate a commitment legibility and understandability?*
+1. Code efficacy. 👉 *Does the code work? Does the code address the questions being asked?*
+1. Code efficiency. 👉 *Does the code exhibit an understanding of the problem and **drain the log sources efficiently?***
