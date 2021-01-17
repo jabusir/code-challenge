@@ -2,8 +2,6 @@
 
 # SESO Code Coding Challenge A21
 
-<!-- Tracks: **Back-end** & **Front-end**. -->
-
 <br>
 
 ## Challenge: Log Sorting
