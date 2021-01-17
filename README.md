@@ -4,7 +4,7 @@
 
 Tracks: **Back-end** & **Front-end**.
 
-**Log Sorting**
+## Challenge: Log Sorting
 
 ---
 
@@ -12,7 +12,7 @@ You have been a set of **log sources**.  Each loh source is contains N log entri
 
 Your mission is to print out all of the entries, across all of the sources, in chronological order.  You don't need to store the final collection of all the entries, simply print them to console.
 
-### Things to keep in mind
+## Things to keep in mind
 
 ---
 
