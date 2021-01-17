@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "./node_modules/jest"
+    "test": "./node_modules/jest/bin/jest.js"
   },
   "license": "BSD-2-Clause",
   "dependencies": {
