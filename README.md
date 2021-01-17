@@ -1,6 +1,7 @@
+<img align="left" width="100px" height="100px" src="https://seso-static-assets-localhost.s3.amazonaws.com/seso-logo-green-100x100.png" alt="seso-logo">
+
 # Seso Code Screening Challenge A21
 
-<img align="left" width="100px" height="100px" src="https://seso-static-assets-localhost.s3.amazonaws.com/seso-logo-green-100x100.png" alt="seso-logo">
 
 **Log Sorting**
 ---
