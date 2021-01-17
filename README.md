@@ -1,11 +1,8 @@
 <img align="left" width="100px" height="100px" src="https://seso-static-assets-localhost.s3.amazonaws.com/seso-logo-green-100x100.png" alt="seso-logo">
 
-# Seso Code Coding Challenge A21
+# SESO Code Coding Challenge A21
 
-
-
-
-
+Back-end and front-end tracks.
 
 **Log Sorting**
 
