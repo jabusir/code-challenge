@@ -7,11 +7,11 @@
 ## Instructions
 
 
-You have been a set of [**log sources**](https://github.com/sesolabor/coding-challenge/blob/master/lib/log-source.js).  Each log source is contains N log entries.  Each entry is a javascript object with a timestamp and message.  You don't know how many log entries each source has - however - you do know that the entries within each source are sorted chronologically (that last bit is important).
+You have been given a set of [**log sources**](https://github.com/sesolabor/coding-challenge/blob/master/lib/log-source.js).  Each log source is contains N log entries.  Each entry is a javascript object with a timestamp and message.  You don't know how many log entries each source has - however - you do know that the entries within each source are sorted chronologically (that last bit is important).
 
 Your mission is to print out all of the entries, across all of the sources, in chronological order.  You don't need to store the final collection of all the entries, simply print them to console.
 
-We expect candidates to spend 1-3 hours on this exercise.
+We expect candidates to spend 1-2 hours on this exercise.
 
 ## Pointers & Callouts
 
