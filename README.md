@@ -6,17 +6,17 @@
 
 ## Instructions
 
-You have been given a set of [**log sources**](https://github.com/sesolabor/coding-challenge/blob/master/lib/log-source.js).  Each log source is contains N log entries.  Each entry is a javascript object with a timestamp and message.  You don't know how many log entries each source has - however - you do know that the entries within each source are sorted chronologically (that last bit is important).
+We have been given a set of [**log sources**](https://github.com/sesolabor/coding-challenge/blob/master/lib/log-source.js).  Each log source is contains N log entries.  Each entry is a javascript object with a timestamp and message.  We don't know the number of log entries each source contains - however - we do know that the entries within each source are sorted 🕒 **chronologically** 🕒.
 
-Your mission is to print out all of the entries, across all of the sources, in chronological order.  You don't need to store the final collection of all the entries, simply print them to stdout.
+The mission is to print out all of the entries, across all of the sources, in chronological order. We don't need to store the log entries,  just print them to stdout.
 
 We expect candidates to spend 1-2 hours on this exercise.
 
 ## Pointers & Callouts
 
 * You don't know how long each log source is.  Each source could have millions of entries and be terabytes in size. In other words, reading the entirety of a log source into memory probably won’t work well.
-* Some log sources could contain logs from last year, from yesterday, even from 100 years. You won't know the timeframe of a log source until you start looking.
-* Consider what would happen when you're asked to merge 1K log sources, or even 1 million log sources.  Where might your bottlenecks arise?
+* Log sources could contain logs from last year, from yesterday, even from 100 years ago. You won't know the timeframe of a log source until you start looking.
+* Consider what would happen when asked to merge 1 million log sources.  Where might your bottlenecks arise?
 
 There are two parts of the challenge which you'll see when you dive into things.  You can get started with things by running `npm start`.
 
