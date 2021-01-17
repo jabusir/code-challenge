@@ -28,6 +28,6 @@ There are two parts of the challenge which you'll see when diving into things.  
 
 ## Submitting
 
-Create a GitHub repo and email your point-of-contact the link.
+Create a GitHub repo and email your point of contact the link.
 
 If - for whatever reason - you cannot create a GitHub repo for this challenge, it is also acceptable to 'zip' the directory and provide your submission as an email attachment.
