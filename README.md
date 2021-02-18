@@ -10,7 +10,7 @@ We have a number of [**log sources**](https://github.com/sesolabor/coding-challe
 
 Our mission is to print all of the entries, across all of the sources, in chronological order. We don't need to store the log entries, just print them to stdout.
 
-We expect candidates to spend 1-2 hours on this exercise.
+We expect candidates to spend 1-2 hours on this exercise. Feel free to use any 3rd party libraries for any **data structures** or utility functions you might need.
 
 ## Pointers & Callouts
 
@@ -24,7 +24,7 @@ There are two parts of the challenge which you'll see when diving into things.  
 
 1. Code cleanliness. 👉 *Does the code demonstrate a commitment legibility and understandability?*
 1. Code efficacy. 👉 *Does the code work? Does the code address the questions being asked?*
-1. Code efficiency. 👉 *Does the code exhibit an understanding of the problem and **drain the log sources efficiently?***
+1. Code efficiency. 👉 *Does the code exhibit an understanding of the problem and **drain the log sources** efficiently?
 
 ## Submitting
 
