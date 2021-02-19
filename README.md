@@ -10,7 +10,7 @@ We have a number of [**log sources**](https://github.com/sesolabor/coding-challe
 
 Our mission is to print all of the entries, across all of the sources, in chronological order. We don't need to store the log entries, just print them to stdout.
 
-We expect candidates to spend 1-2 hours on this exercise. Feel free to use 3rd party libraries for any **data structures** or utility functions you might need.
+We expect candidates to spend 1-3 hours on this exercise. Feel free to use 3rd party libraries for any **data structures** or utility functions you might need.
 
 ## Pointers & Callouts
 
