@@ -24,7 +24,7 @@ There are two parts of the challenge which you'll see when diving into things.  
 
 1. Code cleanliness. 👉 *Does the code demonstrate a commitment legibility and understandability?*
 1. Code efficacy. 👉 *Does the code work? Does the code address the questions being asked?*
-1. Code efficiency. 👉 *Does the code exhibit an understanding of the problem and drain the log sources efficiently?
+1. Code efficiency. 👉 *Does the code exhibit an understanding of the problem and drain the log sources efficiently?*
 
 ## Submitting
 
