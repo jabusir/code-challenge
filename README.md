@@ -1,4 +1,4 @@
-<img align="left" width="100px" height="100px" src="https://seso-static-assets-public.s3.amazonaws.com/seso-logo-green-100x100.png" alt="seso-logo">
+<img align="left" width="100px" height="100px" src="https://seso-static-assets-public.s3.amazonaws.com/seso-logo-green-a-100x100.png" alt="seso-logo">
 
 # SESO Coding Challenge: Log Sorting
 
