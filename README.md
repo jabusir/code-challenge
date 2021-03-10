@@ -8,7 +8,11 @@
 
 We have a number of [**log sources**](https://github.com/sesolabor/coding-challenge/blob/master/lib/log-source.js).  Each log source contains N log entries.  Each entry is a javascript object with a timestamp and message.  We don't know the number of log entries each source contains - however - we do know that the entries within each source are sorted 🕒 **chronologically** 🕒.
 
-Our mission is to print all of the entries, across all of the sources, in chronological order. We don't need to store the log entries, just print them to stdout.
+The Objectives:
+1. [***Drain all of the log sources.***](https://github.com/sesolabor/coding-challenge/blob/31313e303c53cebb96fa02f3aab473dd011e1d16/lib/log-source.js#L45) You should see what this means after digging in.
+1. Print all of the entries, across all of the sources, in chronological order.
+    - We don't need to store the log entries, just print them to stdout.
+1. Do all of this *efficiently*. There are time and space complexities afoot!
 
 We expect candidates to spend 1-3 hours on this exercise. Feel free to use 3rd party libraries for any **data structures** or utility functions you might need.
 
@@ -19,12 +23,6 @@ We expect candidates to spend 1-3 hours on this exercise. Feel free to use 3rd p
 * Consider what would happen when asked to merge 1 million log sources.  Where might bottlenecks arise?
 
 There are two parts of the challenge which you'll see when diving into things.  You can get started by running `npm start`.
-
-## How will your submission be evaluated?
-
-1. Code cleanliness. 👉 *Does the code demonstrate a commitment legibility and understandability?*
-1. Code efficacy. 👉 *Does the code work? Does the code address the questions being asked?*
-1. Code efficiency. 👉 *Does the code exhibit an understanding of the problem and drain the log sources efficiently?*
 
 ## Submitting
 
