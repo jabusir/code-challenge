@@ -12,7 +12,7 @@ We have a number of [**log sources**](https://github.com/sesolabor/coding-challe
 1. [***Drain all of the log sources.***](https://github.com/sesolabor/coding-challenge/blob/31313e303c53cebb96fa02f3aab473dd011e1d16/lib/log-source.js#L45) You should see what this means after digging in.
 1. Print all of the entries, across all of the sources, in chronological order.
     - We don't need to store the log entries, just print them to stdout.
-1. Do all of this *efficiently*. There are time and space complexities afoot!
+1. Do this *efficiently*. There are time and space complexities afoot!
 
 We expect candidates to spend 1-3 hours on this exercise. Feel free to use 3rd party libraries for any **data structures** or utility functions you might need.
 
