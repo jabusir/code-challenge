@@ -16,7 +16,7 @@ We have a number of [**log sources**](https://github.com/sesolabor/coding-challe
 
 We expect candidates to spend 1-3 hours on this exercise.
 
-**Please use appropriate data structures to satisfy the time and space complexities inherent to the problem!!!**
+**We want to see you flex your CS muscles!!! Use the appropriate data structures to satisfy the time and space complexities inherent to the problem!!!**
 
 ## Pointers & Callouts
 
