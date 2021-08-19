@@ -14,7 +14,9 @@ We have a number of [**log sources**](https://github.com/sesolabor/coding-challe
     - We don't need to store the log entries, just print them to stdout.
 1. Do this *efficiently*. There are time and space complexities afoot!
 
-We expect candidates to spend 1-3 hours on this exercise. Feel free to use 3rd party libraries for any **data structures** or utility functions you might need.
+We expect candidates to spend 1-3 hours on this exercise.
+
+Please use appropriate **data structures** to satisfy to time and space complexities inherent to the problem!!!
 
 ## Pointers & Callouts
 
