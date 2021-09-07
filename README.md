@@ -7,9 +7,12 @@
 ## Instructions
 
 We have a number of [**log sources**](https://github.com/sesolabor/coding-challenge/blob/master/lib/log-source.js).  Each log source contains N log entries.  Each entry is a javascript object with a timestamp and message.  We don't know the number of log entries each source contains - however - we do know that the entries within each source are sorted 🕒 **chronologically** 🕒.
+(https://github.com/sesolabor/coding-challenge/blob/31313e303c53cebb96fa02f3aab473dd011e1d16/lib/log-source.js#L45) 
 
 ### The Objectives:
-1. [***Drain all of the log sources.***](https://github.com/sesolabor/coding-challenge/blob/31313e303c53cebb96fa02f3aab473dd011e1d16/lib/log-source.js#L45) You should see what this means after digging in.
+1. ***Drain all of the log sources*** for both the synchronous and asynchronous solutions.
+    - [Synchronous](https://github.com/sesolabor/coding-challenge/blob/31313e303c53cebb96fa02f3aab473dd011e1d16/lib/log-source.js#L37)
+    - [Asynchronous](https://github.com/sesolabor/coding-challenge/blob/31313e303c53cebb96fa02f3aab473dd011e1d16/lib/log-source.js#L45)
 1. Print all of the entries, across all of the sources, in chronological order.
     - We don't need to store the log entries, just print them to stdout.
 1. Do this *efficiently*. There are time and space complexities afoot!
