@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "./node_modules/jest/bin/jest.js"
   },
   "license": "BSD-2-Clause",
   "dependencies": {
     "Faker": "~0.7.0",
     "bluebird": "^3.4.1",
+    "heapify": "^0.6.0",
     "jest": "^26.6.3",
     "lodash": "^4.13.1"
   }
